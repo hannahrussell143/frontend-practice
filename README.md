@@ -1,5 +1,5 @@
 # Chess Board (HTML)
-This project is a static chess board created using HTML and CSS.
+This project is a static chess board created using HTML.
 
 ## Features
 - 8x8 chess board
